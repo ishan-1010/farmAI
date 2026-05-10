@@ -1,5 +1,8 @@
 # FarmAI — AI Crop Doctor
 
+### Member Info: Ishan Katoch, Chayan, Ariti, Ramanpreet, Aditi, Gursheen
+</br>
+
 An open-source multi-agent AI application that helps farmers diagnose crop diseases and get market price advice from a single photo.
 
 Built for the **AI for Social Good Hackathon** using 100% open-source LLMs via Groq.
