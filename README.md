@@ -1,5 +1,7 @@
 # FarmAI — AI Crop Doctor
 
+## Team 5
+
 ### Member Info: Ishan Katoch, Chayan, Ariti, Ramanpreet, Aditi, Gursheen
 </br>
 
