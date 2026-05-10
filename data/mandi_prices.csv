@@ -1,0 +1,16 @@
+crop,state,market,min_price,max_price,modal_price,unit,last_updated
+Tomato,Maharashtra,Pune,800,1200,1000,Quintal,2025-05-01
+Potato,Uttar Pradesh,Agra,600,900,750,Quintal,2025-05-01
+Onion,Maharashtra,Nashik,1200,1800,1500,Quintal,2025-05-01
+Rice,Punjab,Amritsar,2000,2400,2200,Quintal,2025-05-01
+Wheat,Haryana,Karnal,1900,2200,2050,Quintal,2025-05-01
+Maize,Karnataka,Davangere,1400,1700,1550,Quintal,2025-05-01
+Cotton,Gujarat,Rajkot,5500,6200,5800,Quintal,2025-05-01
+Soybean,Madhya Pradesh,Indore,4200,4800,4500,Quintal,2025-05-01
+Sugarcane,Maharashtra,Kolhapur,280,320,300,Quintal,2025-05-01
+Mango,Andhra Pradesh,Vizag,3000,5000,4000,Quintal,2025-05-01
+Banana,Tamil Nadu,Coimbatore,1800,2500,2100,Quintal,2025-05-01
+Chilli,Andhra Pradesh,Guntur,8000,12000,10000,Quintal,2025-05-01
+Groundnut,Gujarat,Junagadh,5000,5800,5400,Quintal,2025-05-01
+Turmeric,Telangana,Nizamabad,7000,9000,8000,Quintal,2025-05-01
+Garlic,Madhya Pradesh,Mandsaur,3500,5000,4200,Quintal,2025-05-01
